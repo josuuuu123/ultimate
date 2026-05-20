@@ -306,6 +306,12 @@ Contraseña: 12345
 ```
 
 ---
+<img width="589" height="276" alt="Imagen5" src="https://github.com/user-attachments/assets/c9e689dc-0c73-4978-b5ce-fadb58db3c69" />
+<img width="524" height="594" alt="Imagen1" src="https://github.com/user-attachments/assets/206f553c-3a58-4e03-9121-af71cf139072" />
+<img width="538" height="600" alt="Imagen2" src="https://github.com/user-attachments/assets/b9d56ad3-b785-4d0b-8c74-9741c7756dea" />
+<img width="589" height="418" alt="Imagen3" src="https://github.com/user-attachments/assets/fbdf35b7-8b7e-422b-841d-91526430940d" />
+<img width="589" height="483" alt="Imagen4" src="https://github.com/user-attachments/assets/6f5c4c55-c70b-4dc0-a39c-72be45727468" />
+
 
 # 11. Conclusiones
 
